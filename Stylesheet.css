@@ -1,0 +1,80 @@
+body{
+	margin:0;
+}
+.TRheader{
+	margin:0;
+	background-color: white;
+	height: 100px;
+	
+}
+.TRLinks_bar{
+	margin:0;
+	background-color: #005eb8;
+	height: 40px;
+}
+.TRlink{
+	color:white;
+	text-decoration: none;
+	font-family: "Open Sans",Arial,Helvetica,sans-serif;
+	line-height: 36px;
+	font-size: .875rem;
+	padding: 0 15px;
+}
+.Hotel_Search_Container{
+    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+    position: relative;
+    left: 350px;
+    top: 25px;
+	width:70%
+}
+.Hotel_Search_Element{
+    border: 1px solid grey;   
+    width: 90%;
+    height: 200px;
+
+}
+.Hotel_image{
+	display: inline-block;
+	width:25%;
+	height:100%;
+}
+.Hotel_image>img {
+	width: 100%;
+	height: 100%;
+}
+.Hotel_details{
+	display: inline-block;
+	position: absolute;
+    width: 50%;
+	padding:20px 0 0 20px;
+}
+.Hotel_name{
+	color: #005EB8;
+    text-decoration: none;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 0 0 10px 0;
+}
+.Hotel_Price_details{
+	border-left: 1px solid grey;
+	width: 20%;
+	float: right;
+	text-align: end;
+    padding: 36px 25px 0 0;
+    line-height: 36px;
+}
+.select_button{
+	border: 2px ;
+	background-color: #FF7802;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	margin-left: 34px;	 
+}
+.price{
+	color:#FF7802;
+	font-weight: bold;
+	font-size: 35px;
+}
+		
